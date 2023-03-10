@@ -1,4 +1,4 @@
-# Spotify Distribution Project
+# Spotify Distribution Project (Work-in-progress)
 
 ## **View what the website currently looks like here! https://bchh325.github.io/spotify-distribution/**
 Note: The currently deployment of the React site is extremely outdated, and it will most likely stay that way until deployment of the Node server, as people would not be able to use the currently deployed website without it anyway.
