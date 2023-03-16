@@ -44,3 +44,5 @@ and interact with others who are also using the site at the same time.
 * Refactoring where the useAxios hook was used
 * Styling bugs
 * Sorting algorithm to order genres
+* Integrate Spotify Playback SDK to play snippets of music
+* Switch to Redux mid-project for easier state management
